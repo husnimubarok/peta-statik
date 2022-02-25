@@ -3,7 +3,7 @@
 
 Analisa dampak berdasarkan kecamatan ID version
 
-![output-result](./20220225 Analisa dampak gempa Sumbar.png)
+![output-result](./20220225%20Analisa%20dampak%20gempa%20Sumbar.png)
 
 Analisa dampak berdasarkan kecamatan EN version
 
