@@ -7,4 +7,4 @@ Analisa dampak berdasarkan kecamatan ID version
 
 Analisa dampak berdasarkan kecamatan EN version
 
-![output-result](./202202225 West Sumatera EQ Impact Analysis.png)
+![output-result](./202202225%20West%20Sumatera%20EQ%20Impact%20Analysis.png)
