@@ -1,4 +1,4 @@
-# Peta preliinary analysis gempa Sumbar 25 Februari 2022
+# Peta preliminary analysis gempa Sumbar 25 Februari 2022
 #### Date: 25-02-2022
 
 ## Analisa dampak berdasarkan kecamatan ID version
