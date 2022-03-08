@@ -2,5 +2,5 @@
 #### Date: 08-03-2022
 
 
-![output-result](./A3%20Map%20PMI%20Lombok%20Cash%20.png.png)
+![output-result](./A3%20Map%20PMI%20Lombok%20Cash%20.png)
 
